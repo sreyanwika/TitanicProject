@@ -1,0 +1,1 @@
+# TitanicProject is about collecting titanic data , cleaning data and creating model for the data and training the model with the data and predicting the test data with the trained model to know how many people surivived and how many not..
